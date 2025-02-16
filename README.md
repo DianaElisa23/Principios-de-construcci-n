@@ -1,5 +1,3 @@
-# Principios-de-construcci-n
-
 Este proyecto en Java se realizó un programa para gestionar el personal de la selección mexicana de fútbol. 
 
 El programa maneja tres tipos de personal:
@@ -19,3 +17,5 @@ Se utiliza el concepto de herencia para reducir la duplicación de código y apl
 4.2 Block indentation: 2 spaces
 5.3 Camel Case: definition
 6.1 @Override: always used
+
+
